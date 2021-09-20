@@ -1,5 +1,14 @@
 # Rails Hello World Lab
 
+# Completed
+eyJsbXNfZW1haWwiOiJreWxlLnNjaG
+VjaHRlckBwb3dlcmhyZy5jb20iLCJ2
+Y3NfdXJsIjoiZ2l0QGdpdGh1Yi5jb2
+06a3lsZXNjaGVjaHRlci9yYWlscy1o
+ZWxsby13b3JsZC1sYWItcGNhLTAwMS
+5naXQiLCJ0aW1lc3RhbXAiOiIyMDIx
+LTA5LTIwIDE0OjI0OjUyIFVUQyJ9
+
 In this lab you will integrate a static route so that the application will render a "Hello World" page.
 
 ## Objectives
